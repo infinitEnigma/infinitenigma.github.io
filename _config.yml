@@ -1,3 +1,15 @@
-theme: jekyll-theme-cayman
-title: infinitEnigma project
-description: from very basics
+title: Blockchain Tech Srbija
+author: Jovan Stojanovic
+email: jovan.geodux@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Na ovom sajtu možete da pronađete aktuelne informacije iz sveta blockchain tehnologija,
+  veštačke inteligencije i krypto sistema. Namera je da pružimo podršku svim korisnicima
+  sa ovog govornog područja, obzirom na malu zastupljenost ovih tema u našim medijima,
+  ovo je alternativni pogled sa etičkim i filosofskim stavovima i temama koje se tiču
+  mogućih konsekvenci razvoja ovih tehnologija na savremeno društvo u celini.
+# social links
+twitter_username: your-twitter-handle
+github_username:  @infinitEnigma
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
