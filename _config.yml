@@ -18,4 +18,4 @@ twitter_username: jovan100janovic
 github_username:  infinitEnigma
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: jekyll-theme-tactile
+theme: jekyll-theme-minimal
